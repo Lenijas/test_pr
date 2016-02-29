@@ -1,9 +1,9 @@
 # test_pr
 
-Author:
+Author: Jaisiel Santana
 
 License: MIT
 
 ##Introduction
 
-Bla Bla bla bla
+Bla Bla bla bla bla2
